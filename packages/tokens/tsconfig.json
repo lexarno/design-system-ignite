@@ -1,0 +1,4 @@
+{
+  "extends": "@lexarno/ts-config/base.json",
+  "include": ["scr"]
+}
