@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@lexarno/react'
+import { Box, Text, TextInput, TextInputProps } from '@alexarno/react'
 
 export default {
   title: 'Form/TextInput',

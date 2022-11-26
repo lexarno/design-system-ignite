@@ -1,4 +1,4 @@
-import { colors } from '@lexarno/tokens'
+import { colors } from '@alexarno/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

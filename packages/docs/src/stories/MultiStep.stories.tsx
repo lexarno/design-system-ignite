@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, MultiStep, MultiStepProps } from '@lexarno/react'
+import { Box, Text, MultiStep, MultiStepProps } from '@alexarno/react'
 
 export default {
   title: 'Form/Multi Step',

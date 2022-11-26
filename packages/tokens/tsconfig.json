@@ -1,4 +1,4 @@
 {
-  "extends": "@lexarno/ts-config/base.json",
+  "extends": "@alexarno/ts-config/base.json",
   "include": ["scr"]
 }

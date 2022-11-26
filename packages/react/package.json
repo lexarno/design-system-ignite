@@ -1,6 +1,6 @@
 {
-  "name": "@lexarno/react",
-  "version": "1.0.0",
+  "name": "@alexarno/react",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,9 +13,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@lexarno/eslint-config": "*",
-    "@lexarno/tokens": "*",
-    "@lexarno/ts-config": "*",
+    "@alexarno/eslint-config": "*",
+    "@alexarno/tokens": "*",
+    "@alexarno/ts-config": "*",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "react": "^18.2.0",
