@@ -1,0 +1,2 @@
+import{A as t}from"./index.6d66be0e.js";import"./index.5e25243e.js";import"./iframe.b8ed4c86.js";import"./index.b7d74abf.js";import"./jsx-runtime.546473ad.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/lexarno.png",alt:"Alex Arno"},argTypes:{src:{control:{type:"text"}}}},l={},p={args:{src:void 0,alt:"Alex Arno"}},c=["Primary","WithFallback"];export{l as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.8bcbd276.js.map
